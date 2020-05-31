@@ -1,4 +1,4 @@
-# Interpolation-Polynomial-Approximation
+# Interpolation-Polynomial-Approximation In JAVA
 
 Source:
 Covid-19 Turkey Daily Data from Ministry of Health of Turkey
